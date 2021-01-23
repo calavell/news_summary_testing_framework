@@ -1,6 +1,6 @@
-##Simple Testing Framework
+## Simple Testing Framework
 
-###Instructions for use
+### Instructions for use
 - Clone this repository inside the parent directory of the project you wish to use this testing framework for.
 - In your main project directory, create a file called ```SpecRunner.html```. The contents of your SpecRunner file should be as follows;
 
